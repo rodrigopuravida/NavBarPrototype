@@ -40,7 +40,7 @@
                                 <items>
                                     <barButtonItem systemItem="organize" id="Ucp-OJ-mnJ"/>
                                     <barButtonItem style="plain" systemItem="flexibleSpace" id="c9D-SQ-NZh"/>
-                                    <barButtonItem title="Item" id="EhE-aC-b1H"/>
+                                    <barButtonItem systemItem="bookmarks" id="EhE-aC-b1H"/>
                                     <barButtonItem style="plain" systemItem="flexibleSpace" id="5yz-kJ-fZl"/>
                                     <barButtonItem title="Item" id="rkn-cO-VTl"/>
                                 </items>
